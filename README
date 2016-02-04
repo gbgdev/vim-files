@@ -1,3 +1,3 @@
 Após clonar o repositório, baixe o código dos plugins digitando:
 
-```git submodule update --init --recursive```
+`git submodule update --init --recursive`
